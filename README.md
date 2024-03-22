@@ -10,7 +10,7 @@ urlFragment: php-docs-hello-world
 
 # PHP Hello World
 
-This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
+This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service) and is used in the [Deploy PHP Quickstart Guide](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php?tabs=cli&pivots=platform-linux). 
 
 ## Contributing
 
